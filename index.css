@@ -1,0 +1,53 @@
+body{
+    background-image: url(./girlwalking2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top:20px;
+    height: 100vh;
+    font-size: 20px;
+}
+
+h1{
+    margin-top: 39px;
+}
+
+#increment-btn{
+    background-color: red;
+    font-size: 20px;
+    padding: 7px;
+    border-radius: 4px;
+    color: aliceblue;
+    display: block;
+    margin: auto;
+}
+
+#save-btn{
+    background-color: green;
+    font-size: 20px;
+    padding: 7px;
+    border-radius: 4px;
+    color: white;
+    display: block;
+    margin: auto;
+    margin-top: 8px;
+}
+
+#container {
+    background-color: white;
+    margin-left: 90px;
+    margin-top: 80px;
+    max-width: 30%;
+    text-align: center;
+    height: 70vh;
+    padding-top: 20px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+#prev-data{
+    margin-top: 46px;
+    margin-bottom: 5px;
+}
+
+p{
+    font-size: 30px;
+}
